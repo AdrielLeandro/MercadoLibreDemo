@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  MercadoLibreDemo
+
+  Created by Adriel on 8/31/20.
+  Copyright © 2020 Adriel Pinzas. All rights reserved.
+*/
+
+"search.title" = "Buscar";
+"search-view.message" = "Buscar...";
+"detail-address.title" = "Dirección: %@";
+"detail-price.title" = "Price: %@";
+"detail-warranty.message" = "Garantía del vendedor: %@";
+"detail-available-stock.message" = "Stock disponible";
+"detail-no-available-quantity.message" = "Stock No disponible";
+"detail-acceptsMP.message" = "Se acepta Mercado Pago";
+"detail.title" = "Detalles";
+"reload.title" = "Recargar";
+"restore.title" = "Restablecer";
+"no-result.title" = "No hay resultados";
+"error.title" = "¡Lo sentimos! a ocurrido un error";
+"select-category.title" = "Selecciona una Categoria";
